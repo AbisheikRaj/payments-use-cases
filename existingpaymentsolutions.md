@@ -14,7 +14,7 @@ __Services provided__
 * Withdraw funds via a 'wallet' system
 * Pay via wallet system
 * Pay using credit and debit card
-* Link and pay by a bank acocunt
+* Link and pay by a bank account
 * Link mobile phone number to account and use for pay receipts
 * Send money to almost anyone with an email or mobile number
 * Request money (payment made using any method - credit card, etc.)
